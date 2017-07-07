@@ -12,6 +12,7 @@
 		C40D49BE1EF09F6400D1F1DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C40D49BC1EF09F6400D1F1DB /* Main.storyboard */; };
 		C40D49C01EF09F6400D1F1DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C40D49BF1EF09F6400D1F1DB /* Assets.xcassets */; };
 		C40D49C31EF09F6400D1F1DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C40D49C11EF09F6400D1F1DB /* LaunchScreen.storyboard */; };
+		C4FED5331EF19D40001D1E34 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = C4FED5321EF19D40001D1E34 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C40D49BF1EF09F6400D1F1DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C40D49C21EF09F6400D1F1DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C40D49C41EF09F6400D1F1DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4FED5321EF19D40001D1E34 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C40D49BC1EF09F6400D1F1DB /* Main.storyboard */,
 				C40D49BF1EF09F6400D1F1DB /* Assets.xcassets */,
 				C40D49C11EF09F6400D1F1DB /* LaunchScreen.storyboard */,
+				C4FED5321EF19D40001D1E34 /* start.txt */,
 				C40D49C41EF09F6400D1F1DB /* Info.plist */,
 			);
 			path = wordScramble;
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C40D49C31EF09F6400D1F1DB /* LaunchScreen.storyboard in Resources */,
+				C4FED5331EF19D40001D1E34 /* start.txt in Resources */,
 				C40D49C01EF09F6400D1F1DB /* Assets.xcassets in Resources */,
 				C40D49BE1EF09F6400D1F1DB /* Main.storyboard in Resources */,
 			);
@@ -299,6 +303,7 @@
 				C40D49C91EF09F6400D1F1DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
